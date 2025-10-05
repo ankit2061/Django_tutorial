@@ -31,5 +31,7 @@ python manage.py runserver
 ### 7. Lesson_7: `Upload Images`
 ### 8. Lesson_8_Challenge: `Created Register`
 ### 9. Lesson_9: `User Registration`
-### 9. Lesson_10: `User Login and auth`
+### 10. Lesson_10: `User Login and auth`
+### 11. Lesson_11: `User Login and auth`
+### 12. Lesson_12: `Custom Forms`
 ---
